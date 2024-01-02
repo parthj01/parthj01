@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **parthjayswal83@gmail.com**
 
-- 📄 Know about my experiences (https://teal-seline-47.tiiny.site/)
+- 📄 Know about my experiences https://teal-seline-47.tiiny.site/
 
 - ⚡ Fun fact **I am funny guy around selected people**
 
