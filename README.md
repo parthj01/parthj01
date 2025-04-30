@@ -7,16 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/jayswalparth001" target="blank"><img src="https://img.shields.io/twitter/follow/jayswalparth001?logo=twitter&style=for-the-badge" alt="jayswalparth001" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Technology**
-
-- 💬 Ask me about ** JavaScript, ReactJs, NodeJs, ExpressJs**
-
-- 📫 How to reach me **parthjayswal83@gmail.com**
-
-- 📄 Know about my experiences https://teal-seline-47.tiiny.site/
-
-- ⚡ Fun fact **I am funny guy around selected people**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jayswalparth001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayswalparth001" height="30" width="40" /></a>
