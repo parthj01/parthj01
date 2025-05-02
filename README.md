@@ -1,23 +1,67 @@
-<h1 align="center">Hi 👋, I'm Parth Jayswal</h1>
-<h3 align="center">A passionate software developer from India</h3>
+# 👋 Hello, I'm Parth Jayswal!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthj01&label=Profile%20views&color=0e75b6&style=flat" alt="parthj01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthj01" alt="parthj01" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jayswalparth001" target="blank"><img src="https://img.shields.io/twitter/follow/jayswalparth001?logo=twitter&style=for-the-badge" alt="jayswalparth001" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+Welcome to my GitHub profile! I’m passionate about technology, coding, and building meaningful software.
 <p align="left">
-<a href="https://twitter.com/jayswalparth001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayswalparth001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/parth-jayswal-32bb72214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parth-jayswal-32bb72214" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/parthjayswal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parthjayswal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@parthjayswal83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@parthjayswal83" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prth4556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prth4556" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=parthj01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/parthj01?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthj01&show_icons=true&locale=en&layout=compact" alt="parthj01" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthj01&show_icons=true&locale=en" alt="parthj01" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthj01&" alt="parthj01" /></p>
+- 🔭 **Currently working on**: Full-stack web and cloud-based applications  
+- 🌱 **Learning**: Docker, React.js, and Cybersecurity  
+- 💬 **Ask me about**: .NET, Angular, SQL, or anything related to backend development
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
+</p>
+
+### Databases & Tools
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+  <img src="https://cdn.simpleicons.org/github/000000" height="40" alt="GitHub"/>
+</p>
+
+
+---
+
+## 📈 GitHub Activity
+
+### 📊 Stats & Graphs
+![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthj01&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=parthj01&theme=radical)
+
+---
+
+## 🧑‍💻 Skills Progression
+
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![C# Progress](https://img.shields.io/badge/90%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Angular Progress](https://img.shields.io/badge/85%25-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Progress](https://img.shields.io/badge/75%25-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Progress](https://img.shields.io/badge/80%25-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![SQL Server Progress](https://img.shields.io/badge/95%25-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+## 📬 Contact Me
+[![Email](https://img.shields.io/badge/Email-Send%20Mail-blue?style=flat&logo=gmail)](mailto:parthjayswal83@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthjayswal/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/parthj01)
+
+---
+
+✨ Thanks for stopping by!
